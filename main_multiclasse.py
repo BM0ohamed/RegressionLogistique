@@ -13,7 +13,7 @@ from random import *
 # ===================== Partie 1: Lecture et normalisation des données=====================
 print("Lecture des données ...")
 
-X, Y, N, nb_var = lecture_donnees("TD5-donnees/iris.txt")
+X, Y, N, nb_var = lecture_donnees("donnees/iris.txt")
 
 # Affichage des 10 premiers exemples du dataset
 print("Affichage des 10 premiers exemples du dataset : ")

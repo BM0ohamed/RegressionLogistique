@@ -11,7 +11,7 @@ from decoupage import *
 # ===================== Partie 1: Lecture et normalisation des données=====================
 print("Lecture des données ...")
 
-X, Y, N, nb_var = lecture_donnees("TD5-donnees/notes.txt")
+X, Y, N, nb_var = lecture_donnees("donnees/notes.txt")
 
 # Affichage des 10 premiers exemples du dataset
 print("Affichage des 10 premiers exemples du dataset : ")
